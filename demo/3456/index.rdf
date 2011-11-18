@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:MAF="http://maf.mozdev.org/metadata/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:root">
+    <MAF:originalurl RDF:resource="http://www.reddit.com/r/programming/"/>
+    <MAF:title RDF:resource="programming"/>
+    <MAF:archivetime RDF:resource="Thu, 17 Nov 2011 21:38:21 -0600"/>
+    <MAF:indexfilename RDF:resource="index.html"/>
+    <MAF:charset RDF:resource="UTF-8"/>
+  </RDF:Description>
+</RDF:RDF>
